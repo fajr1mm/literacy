@@ -1,0 +1,15 @@
+transformers
+typing
+flask
+pydantic
+typing
+pandas
+datetime
+google.cloud
+transformers
+flask_sqlalchemy
+nltk
+numpy
+scikit-learn
+gunicorn
+werkzeug
